@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo-annotation-with-springmvc-sample.iml" filepath="$PROJECT_DIR$/dubbo-annotation-with-springmvc-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-module-api/user-module-api.iml" filepath="$PROJECT_DIR$/user-module-api/user-module-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-module-consumer/user-module-consumer.iml" filepath="$PROJECT_DIR$/user-module-consumer/user-module-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-module-provider/user-module-provider.iml" filepath="$PROJECT_DIR$/user-module-provider/user-module-provider.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="user-module-consumer:war">
+    <output-path>$PROJECT_DIR$/user-module-consumer/target</output-path>
+    <root id="archive" name="autosellrobot-wechat.war">
+      <element id="artifact" artifact-name="user-module-consumer:war exploded" />
+    </root>
+  </artifact>
+</component>
