@@ -10,8 +10,9 @@
     <url>http://maven.apache.org</url>
     <modules>
         <module>user-module-api</module>
-        <module>user-module-provider</module>
-        <module>user-module-consumer</module>
+		<module>user-module-consumer</module>
+		<module>user-module-provider20880</module>
+		<module>user-module-provider20881</module>
     </modules>
 	<properties>
 		<dubbo.version>2.5.3</dubbo.version>
@@ -58,4 +59,18 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
+
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
 </project>

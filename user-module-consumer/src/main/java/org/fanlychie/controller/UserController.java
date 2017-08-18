@@ -24,7 +24,7 @@ public class UserController {
         }
         String str = userService.register(username, password);
         System.out.println(str);
-        return "注册完成";
+        return str;
     }
 
 }

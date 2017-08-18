@@ -7,6 +7,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/user-module-provider:20881/pom.xml" />
+        <option value="$PROJECT_DIR$/user-module-provider:20880/pom.xml" />
       </list>
     </option>
   </component>

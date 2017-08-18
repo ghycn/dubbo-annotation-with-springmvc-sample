@@ -9,13 +9,18 @@
         <module name="user-module-api" />
         <module name="user-module-consumer" />
         <module name="user-module-provider" />
+        <module name="user-module-provider20880" />
+        <module name="user-module-provider20881" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="dubbo-annotation-with-springmvc-sample" target="1.8" />
       <module name="user-module-api" target="1.8" />
       <module name="user-module-consumer" target="1.8" />
-      <module name="user-module-provider" target="1.8" />
+      <module name="user-module-provider20880" target="1.8" />
+      <module name="user-module-provider20881" target="1.8" />
+      <module name="user-module-provider:20880" target="1.8" />
+      <module name="user-module-provider:20881" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -6,9 +6,9 @@
         <artifactId>dubbo-annotation-with-springmvc-sample</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <artifactId>user-module-provider</artifactId>
+    <artifactId>user-module-provider20880</artifactId>
     <packaging>jar</packaging>
-    <name>user-module-provider</name>
+    <name>user-module-provider20880</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>

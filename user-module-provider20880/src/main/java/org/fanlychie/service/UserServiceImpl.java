@@ -14,7 +14,7 @@ public class UserServiceImpl implements UserService {
         System.out.println(String.format("接收到注册用户请求 - {username:%s, password:%s}",
                 username, password));
         System.out.println("---------------------------------------------------------");
-        return username+":"+password;
+        return username+":20880"+password;
     }
 
 }
